@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.9.3/miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://ip290648184.out.azhimalayanvh.com/Firmware/Flyme/m3_note/7.8.6.25/cn_beta/20180623011431/929e1be2/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=a9bce1f917e1ffe84edc06d558723007874c64a8ef23e258&ali_redirect_ex_tmining_ts=1608976738&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
