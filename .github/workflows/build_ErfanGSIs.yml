@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL：https://bigota.d.miui.com/9.6.27/miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip
-  ROM_NAME：MIUI
+  ROM_URL：https://jaist.dl.sourceforge.net/project/santoni-custom-roms/R/RevengeOS-4.0-R-UNOFFICIAL-santoni-20200920-1519.zip
+  ROM_NAME：Generic
   TZ ：亚洲/上海
 
 jobs:
