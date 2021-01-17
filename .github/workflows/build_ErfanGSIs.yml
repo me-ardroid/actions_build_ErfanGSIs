@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL：https://120-234-73-1.ksyungslb.com/bigota.d.miui.com/9.8.29/miui_HM4X_9.8.29_72dee00fc2_7.1.zip?ksy_gslb_referer=https%3A%2F%2Fmiuiver.com%2F
+  ROM_URL：https://bigota.d.miui.com/9.6.27/miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip
   ROM_NAME：MIUI
   TZ ：亚洲/上海
 
