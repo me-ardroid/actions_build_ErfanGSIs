@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ip290648184.out.azhimalayanvh.com/Firmware/Flyme/m3_note/7.8.6.25/cn_beta/20180623011431/929e1be2/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=a9bce1f917e1ffe84edc06d558723007874c64a8ef23e258&ali_redirect_ex_tmining_ts=1608976738&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
-  ROM_NAME: Flyme
-  TZ: Asia/Shanghai
+  ROM_URL:https://120-234-73-1.ksyungslb.com/bigota.d.miui.com/9.8.29/miui_HM4X_9.8.29_72dee00fc2_7.1.zip?ksy_gslb_referer=https%3A%2F%2Fmiuiver.com%2F
+  ROM_NAME：MIUI
+  TZ ：亚洲/上海
 
 jobs:
   build:
